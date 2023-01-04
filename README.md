@@ -1,6 +1,6 @@
-# Digital Twin IOT Code
+# Digital Twin Project
 
-This is all the code used for IOT Projects
+This is all the code used for Digital Twin IOT Project
 
 Following Libraries are used for Digital Twin Project
 
